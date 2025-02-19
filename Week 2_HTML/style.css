@@ -1,0 +1,22 @@
+/*universal selector */
+*{
+    background-color:rgb(241, 238, 242);
+
+}
+
+h1{
+    border: 2px solid green;
+    color:blue;
+    padding: 5px;
+  }
+  p{
+    color:rgb(203, 121, 250);
+  }
+  h2{
+    color:blueviolet;
+  }
+navbar,li, a {
+    list-style: none;
+    text-decoration: none;
+    padding: 10px 20xp;
+}
